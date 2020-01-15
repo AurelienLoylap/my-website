@@ -1,4 +1,4 @@
 Readme
-vers1.2
+vers1.3
 
-New Verion
+New Verion debug
